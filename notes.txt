@@ -31,4 +31,6 @@ Before the user gets access to the app, they have to authenticate their identity
 
 10. Create a requirements.txt file for the project and 
 
-11. Deploy the app to Streamlit Community Cloud or Render(Optional but highly recommended)
+11. Deploy the app to Streamlit Community Cloud or Render(Optional but highly recommended).
+
+done.
